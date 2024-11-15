@@ -1,2 +1,2 @@
 # avec-bike-logic
-Repository for the bike's software
+*System logic of a rental bike.  Part of the [AVEC project](https://github.com/caas23/vteam-root).*
